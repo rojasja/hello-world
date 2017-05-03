@@ -32,11 +32,11 @@ Some docs are public, others are in MS only repository, others in private-restri
 
 [Set up Keys include](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-get-started-custom?branch=pr-en-us-11837)
 
-[Integrate REST API Claims Exchange as Validation](https://github.com/parakhj/azure-docs-pr/blob/build/articles/active-directory-b2c/active-directory-b2c-user-journeys-user-input-validation.md)
+[Integrate REST API Claims Exchange as Validation](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-user-journeys-user-input-validation?branch=pr-en-us-9810)
 
-[Integrate REST API - as New Orchestration step in user journey](https://github.com/parakhj/azure-docs-pr/blob/build/articles/active-directory-b2c/active-directory-b2c-user-journeys-orchestration-step.md)
+[Integrate REST API - as New Orchestration step in user journey](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-user-journeys-orchestration-step?branch=pr-en-us-9810)
 
-[Manage Single Sign On](https://github.com/parakhj/azure-docs-pr/blob/master/articles/active-directory-b2c/active-directory-b2c-reference-manage-sso-and-token-configuration.md)
+[Manage Single Sign On](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-reference-manage-sso-and-token-configuration?branch=pr-en-us-11990)
 
 
 ## Reference

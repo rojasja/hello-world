@@ -20,9 +20,9 @@ Some docs are public, others are in MS only repository, others in private-restri
 [How to configure OIDC - AAD](https://docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-setup-aad-custom)
 
 
-[How to Configure Application Insights with Azure AD B2C Custom policies](https://docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-troubleshoot-custom)
+[How to configure Application Insights with Azure AD B2C Custom policies](https://docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-troubleshoot-custom)
 
-[How to Configure User Journey Viewer with Application Insights](https://github.com/rojasja/hello-world/blob/master/Integrating%20a%20B2C%20policy%20with%20Azure%20Application%20Insights.docx)
+[How to configure User Journey Viewer with Application Insights](https://github.com/rojasja/hello-world/blob/master/Integrating%20a%20B2C%20policy%20with%20Azure%20Application%20Insights.docx)
 
 
 [How to configure user signup - Self-Asserted Pages, (required claims, drop down boxes), and turn off email verification](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-configure-signup-self-asserted-custom?branch=pr-en-us-11837)

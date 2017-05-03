@@ -20,6 +20,8 @@ Some docs are public, others are in MS only repository, others in private-restri
 
 [How to configure OIDC - AAD](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-overview-custom?branch=pr-en-us-9810)
 
+[How to configure SAML - Salesforce](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-setup-sf-app-custom?branch=pr-en-us-11932#register-the-azure-ad-claims-provider-to-a-user-journey)
+
 [How to configure Application Insights with Azure AD B2C Custom policies](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-troubleshoot-custom?branch=pr-en-us-9810)
 
 [How to configure User Journey Viewer with Application Insights](https://github.com/rojasja/hello-world/blob/master/Integrating%20a%20B2C%20policy%20with%20Azure%20Application%20Insights.docx)

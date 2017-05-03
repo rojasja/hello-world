@@ -1,3 +1,6 @@
+Placeholder for content...
+
+
 ---title: 'Release notes for Azure Active Directory B2C custom policy public preview | Microsoft Docs'description: A topic on Azure Active Directory B2C custom policiesservices: active-directory-b2cdocumentationcenter: ''author: jorojamanager: krasskeditor: joroja
 ms.assetid: 4d29e30c-c510-482d-ac2a-4ad7da7ade5fms.service: active-directory-b2cms.workload: identityms.tgt_pltfrm: nams.topic: articlems.devlang: nams.date: 04/28/2017ms.author: joroja
 ---

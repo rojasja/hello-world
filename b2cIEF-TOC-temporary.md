@@ -16,7 +16,7 @@ Some docs are public, others are in MS only repository, others in private-restri
 
 [Get Started with Custom Policies, starterpack, local accounts, facebook](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-get-started-custom?branch=pr-en-us-11837)
 
-[How to configure OIDC - AAD](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-setup-aad-custom?branch=pr-en-us-9810)
+[How to configure OIDC - AAD](https://github.com/Microsoft/azure-docs-pr/blob/master/articles/active-directory-b2c/active-directory-b2c-setup-aad-custom.md)
 
 [How to configure SAML - Salesforce](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-setup-sf-app-custom?branch=pr-en-us-11932#register-the-azure-ad-claims-provider-to-a-user-journey)
 

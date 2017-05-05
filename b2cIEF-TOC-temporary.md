@@ -7,7 +7,7 @@ Some docs are public, others are in MS only repository, others in private-restri
 
 [Overview Custom Policies with IEF](https://docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-overview-custom)
 
-[Developer Notes and Responsibilities](https://github.com/rojasja/hello-world/blob/master/active-directory-b2c-responsibilities-for-custom-policy-developers-during-public-preview.md)
+[Developer Notes and Responsibilities](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-developer-notes-custom?branch=pr-en-us-12213)
 
 
 
@@ -18,7 +18,7 @@ Some docs are public, others are in MS only repository, others in private-restri
 
 [How to configure OIDC - AAD](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-setup-aad-custom?branch=pr-en-us-12213)
 
-[How to configure SAML - Salesforce](https://github.com/Microsoft/azure-docs-pr/blob/master/articles/active-directory-b2c/active-directory-b2c-setup-sf-app-custom.md)
+[How to configure SAML - Salesforce](https://docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-setup-sf-app-custom)
 
 [How to configure Application Insights with Azure AD B2C Custom policies](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-troubleshoot-custom?branch=pr-en-us-9810)
 
@@ -34,7 +34,7 @@ Some docs are public, others are in MS only repository, others in private-restri
 
 [Integrate REST API - as New Orchestration step in user journey](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-user-journeys-orchestration-step?branch=pr-en-us-9810)
 
-[Manage Single Sign On](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-reference-manage-sso-and-token-configuration?branch=pr-en-us-11990)
+[Manage Single Sign On and Token Shape](https://review.docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-reference-manage-sso-and-token-configuration?branch=pr-en-us-11990)
 
 
 ## Reference
